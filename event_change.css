@@ -1,0 +1,11 @@
+.login{
+    width: 992px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+input{
+    width: 180px;
+    height: 25px;
+    text-align: center;
+}
